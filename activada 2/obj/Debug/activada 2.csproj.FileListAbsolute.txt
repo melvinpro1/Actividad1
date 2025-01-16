@@ -1,0 +1,11 @@
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\bin\Debug\activada 2.exe.config
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\bin\Debug\activada 2.exe
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\bin\Debug\activada 2.pdb
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada 2.csproj.AssemblyReference.cache
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada_2.Form1.resources
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada_2.Properties.Resources.resources
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada 2.csproj.GenerateResource.cache
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada 2.csproj.CoreCompileInputs.cache
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada 2.exe
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada 2.pdb
+C:\Users\melvi\OneDrive - Universidad de Costa Rica\lenguajes\Actividad 2\activada 2\activada 2\obj\Debug\activada_2.Form2.resources
